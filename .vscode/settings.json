@@ -1,0 +1,13 @@
+{
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureOnOpen": true,
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.environment": {
+        "Path": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin;${env:Path}"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.s": "asm"
+    },
+    "cmake.sourceDirectory": "C:/22222horse/实验1 跑马灯实验"
+}

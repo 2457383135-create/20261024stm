@@ -1,0 +1,3 @@
+C:/22222horse/exp1/build/CMakeFiles/atk_f407.elf.dir
+C:/22222horse/exp1/build/CMakeFiles/edit_cache.dir
+C:/22222horse/exp1/build/CMakeFiles/rebuild_cache.dir
